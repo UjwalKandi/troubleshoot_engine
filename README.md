@@ -10,11 +10,11 @@ The **Agentic AI Log Troubleshooting System (AALTS)** is an AI-driven solution d
 - **Edge Device Compatibility:** Optimized to run locally on edge devices with minimal compute, storage, and bandwidth requirements.
 - **Offline Functionality:** Designed to operate in low or no internet environments, ensuring consistent performance even in remote locations.
 
-<img src="https://github.com/UjwalKandi/dfs-aalts-saasops/blob/86b19b2ed2e2a8f1fd2a0d2a3a6a4cbf1a976a26/flow-dig.png" />
+<img src="https://github.com/UjwalKandi/dfs-aalts-saasops/blob/86b19b2ed2e2a8f1fd2a0d2a3a6a4cbf1a976a26/flow-dig.png" width="850" height="750" border="10" />
 
 ### Components
 - **LogDataAgent:** Manages log data storage and performs semantic search to identify relevant logs based on user queries.
 - **QueryAgent:** Leverages a local language model to generate contextual responses for troubleshooting queries.
 - **UIAgent:** Provides a user-friendly interface for interacting with the system, visualizing analysis results, and submitting queries.
 
-<img src="https://github.com/UjwalKandi/dfs-aalts-saasops/blob/376dc20a927e4907fcae1ee5e249b5ecfeb8e3cf/output.png" width="600" height="400" border="10"/>
+<img src="https://github.com/UjwalKandi/dfs-aalts-saasops/blob/376dc20a927e4907fcae1ee5e249b5ecfeb8e3cf/output.png" width="600" height="450" border="10"/>
